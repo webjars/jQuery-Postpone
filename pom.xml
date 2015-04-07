@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jQuery-Postpone</artifactId>
-    <version>1.2.2</version>
+    <version>1.2.3-SNAPSHOT</version>
     <name>jQuery-Postpone</name>
     <description>WebJar for jQuery-Postpone</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/jQuery-Postpone</url>
         <connection>scm:git:https://github.com/webjars/jQuery-Postpone.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jQuery-Postpone.git</developerConnection>
-        <tag>jQuery-Postpone-1.2.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
